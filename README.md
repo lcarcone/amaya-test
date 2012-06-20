@@ -1,4 +1,4 @@
 amaya
 =====
 
-HTML browser/editor
+Web Editor
